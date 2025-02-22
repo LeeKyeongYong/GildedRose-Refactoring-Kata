@@ -1,4 +1,5 @@
 ## v1. 첫 시도 (25.02.22)
+https://github.com/LeeKyeongYong/GildedRose-Refactoring-Kata/pull/1
 
 
 ## v2.
