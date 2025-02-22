@@ -1,3 +1,11 @@
+## v1. 첫 시도 (25.02.22)
+https://github.com/LeeKyeongYong/GildedRose-Refactoring-Kata/pull/1
+
+
+## v2.
+
+
+---
 _Support this and all my katas via [Patreon](https://www.patreon.com/EmilyBache)_
 
 # Gilded Rose Refactoring Kata
@@ -15,9 +23,9 @@ You could write some unit tests yourself, using the requirements to identify sui
 
 Alternatively, use the Approval tests provided in this repository. (Read more about that in the section "Text-based Approval Testing").
 
-The idea of the exercise is to do some deliberate practice, and improve your skills at designing test cases and refactoring. The idea is not to re-write the code from scratch, but rather to practice taking small steps, running the tests often, and incrementally improving the design. 
+The idea of the exercise is to do some deliberate practice, and improve your skills at designing test cases and refactoring. The idea is not to re-write the code from scratch, but rather to practice taking small steps, running the tests often, and incrementally improving the design.
 
-### Gilded Rose Requirements in other languages 
+### Gilded Rose Requirements in other languages
 
 - [English](GildedRoseRequirements.md)
 - [Español](GildedRoseRequirements_es.md)
